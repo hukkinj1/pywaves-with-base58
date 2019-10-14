@@ -1,0 +1,2 @@
+# pywaves-with-base58
+Package PyWaves together with base58 (see https://github.com/PyWaves/PyWaves and https://github.com/keis/base58)
