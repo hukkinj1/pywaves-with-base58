@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='PyWaves',
+setup(name='pywaves-with-base58',
       version='0.8.25_02',
       description='Object-oriented library for the Waves blockchain platform',
       url='http://github.com/pywaves/pywaves',
