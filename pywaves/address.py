@@ -6,7 +6,7 @@ import pywaves.crypto as crypto
 import time
 import struct
 import json
-import base58
+from pywaves import base58
 import base64
 import logging
 import requests
