@@ -10,7 +10,6 @@ setup(name='PyWaves',
       packages=['pywaves'],
       keywords = ['waves', 'blockchain', 'analytics'],
       install_requires=[
-	    'base58==0.2.5',
             'pyblake2',
             'python-axolotl-curve25519',
             'requests'
